@@ -1,1 +1,2 @@
+This is the file0 text created originally in B2 branch.
 This is the file0 text created originally in Master branch.
